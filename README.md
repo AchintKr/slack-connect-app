@@ -30,7 +30,7 @@
 | Backend    | Node.js, Express |
 | Database   | better-sqlite3 (SQLite) |
 | API        | Slack Web API |
-| Deployment | Netlify/Vercel (frontend), Render/Heroku (backend) |
+| Deployment | Netlify(frontend), Render(backend) |
 
 ---
 
